@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nR2i/+gC+KBinrT4ntTKpaJyv2Q1E+uEvbFMl461y8Whb8mym/Ihgt0rrMW0eViThcCssRAVa2ChnspZcfJq7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gui\\Documents\\Projetos\\ClientApiJobs\\ClientApiJobs\\ClientApiJobs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gui\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

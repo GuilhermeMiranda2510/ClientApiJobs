@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Candidato\Frm_CandidatoxVagas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Candidato\Frm_DadosVaga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Candidato\Frm_VagasDisponveis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Empresa\Frm_DadosCandidatosPorVaga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Empresa\Frm_EncerraVaga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Empresa\Frm_ListarCandidatosPorVaga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Empresa\Frm_RegistraNovaVaga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login\Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Menu\Frm_MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Empresa\Frm_RelatorioVagas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
